@@ -4,7 +4,7 @@ A simple Python game where the computer randomly selects a number between 1 and 
 
 ## How to Play
 
-1. **Run the game:**
+1. **Run the python file:**
 
    ```bash
    python guess_number.py
